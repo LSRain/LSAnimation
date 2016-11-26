@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>icon</key>
+		<string>father</string>
+		<key>desc</key>
+		<string>老爸带着女儿一起踢球,其乐融融 老爸带着女儿一起踢球,其乐融融 老爸带着女儿一起踢球,其乐融融</string>
+		<key>count</key>
+		<integer>25</integer>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>greenMan</string>
+		<key>desc</key>
+		<string>哥俩好</string>
+		<key>count</key>
+		<integer>28</integer>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>gun</string>
+		<key>desc</key>
+		<string>哥们,有枪就牛逼啦</string>
+		<key>count</key>
+		<integer>40</integer>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>showLove</string>
+		<key>desc</key>
+		<string>秀恩爱,需要注意场合哦</string>
+		<key>count</key>
+		<integer>67</integer>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>tangTiger</string>
+		<key>desc</key>
+		<string>唐伯虎,电蚊香</string>
+		<key>count</key>
+		<integer>29</integer>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>threeDog</string>
+		<key>desc</key>
+		<string>三只可爱的小狗狗</string>
+		<key>count</key>
+		<integer>50</integer>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>water</string>
+		<key>desc</key>
+		<string>有话好好说嘛!!</string>
+		<key>count</key>
+		<integer>40</integer>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>offWork</string>
+		<key>desc</key>
+		<string>下班啦,下班啦,</string>
+		<key>count</key>
+		<integer>14</integer>
+	</dict>
+</array>
+</plist>

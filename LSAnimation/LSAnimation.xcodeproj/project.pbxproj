@@ -13,6 +13,24 @@
 		514F2ED61DE9D35C00846163 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 514F2ED41DE9D35C00846163 /* Main.storyboard */; };
 		514F2ED81DE9D35C00846163 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 514F2ED71DE9D35C00846163 /* Assets.xcassets */; };
 		514F2EDB1DE9D35C00846163 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 514F2ED91DE9D35C00846163 /* LaunchScreen.storyboard */; };
+		514F2F091DE9D38D00846163 /* KuaiviewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 514F2EE41DE9D38D00846163 /* KuaiviewController.m */; };
+		514F2F0A1DE9D38D00846163 /* CartoonViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 514F2EE71DE9D38D00846163 /* CartoonViewController.m */; };
+		514F2F0B1DE9D38D00846163 /* ie_img.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 514F2EE91DE9D38D00846163 /* ie_img.bundle */; };
+		514F2F0C1DE9D38D00846163 /* IEViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 514F2EEB1DE9D38D00846163 /* IEViewController.m */; };
+		514F2F0D1DE9D38D00846163 /* images.plist in Resources */ = {isa = PBXBuildFile; fileRef = 514F2EEC1DE9D38D00846163 /* images.plist */; };
+		514F2F0E1DE9D38D00846163 /* jk_ie.xib in Resources */ = {isa = PBXBuildFile; fileRef = 514F2EED1DE9D38D00846163 /* jk_ie.xib */; };
+		514F2F0F1DE9D38D00846163 /* img.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 514F2EEF1DE9D38D00846163 /* img.bundle */; };
+		514F2F101DE9D38D00846163 /* XiuViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 514F2EF11DE9D38D00846163 /* XiuViewController.m */; };
+		514F2F111DE9D38D00846163 /* Zhen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 514F2EF31DE9D38D00846163 /* Zhen.xib */; };
+		514F2F121DE9D38D00846163 /* zhen_img.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 514F2EF41DE9D38D00846163 /* zhen_img.bundle */; };
+		514F2F131DE9D38D00846163 /* ZhenViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 514F2EF61DE9D38D00846163 /* ZhenViewController.m */; };
+		514F2F141DE9D38D00846163 /* app_img.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 514F2EF81DE9D38D00846163 /* app_img.bundle */; };
+		514F2F151DE9D38D00846163 /* apps.plist in Resources */ = {isa = PBXBuildFile; fileRef = 514F2EF91DE9D38D00846163 /* apps.plist */; };
+		514F2F161DE9D38D00846163 /* APPViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 514F2EFC1DE9D38D00846163 /* APPViewController.m */; };
+		514F2F171DE9D38D00846163 /* LSApp.m in Sources */ = {isa = PBXBuildFile; fileRef = 514F2EFF1DE9D38D00846163 /* LSApp.m */; };
+		514F2F181DE9D38D00846163 /* LSAppView.m in Sources */ = {isa = PBXBuildFile; fileRef = 514F2F021DE9D38D00846163 /* LSAppView.m */; };
+		514F2F191DE9D38D00846163 /* LSAppView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 514F2F031DE9D38D00846163 /* LSAppView.xib */; };
+		514F2F1A1DE9D38D00846163 /* WBView.m in Sources */ = {isa = PBXBuildFile; fileRef = 514F2F081DE9D38D00846163 /* WBView.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +44,35 @@
 		514F2ED71DE9D35C00846163 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		514F2EDA1DE9D35C00846163 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		514F2EDC1DE9D35C00846163 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		514F2EE31DE9D38D00846163 /* KuaiviewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KuaiviewController.h; sourceTree = "<group>"; };
+		514F2EE41DE9D38D00846163 /* KuaiviewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KuaiviewController.m; sourceTree = "<group>"; };
+		514F2EE61DE9D38D00846163 /* CartoonViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CartoonViewController.h; sourceTree = "<group>"; };
+		514F2EE71DE9D38D00846163 /* CartoonViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CartoonViewController.m; sourceTree = "<group>"; };
+		514F2EE91DE9D38D00846163 /* ie_img.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = ie_img.bundle; sourceTree = "<group>"; };
+		514F2EEA1DE9D38D00846163 /* IEViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = IEViewController.h; sourceTree = "<group>"; };
+		514F2EEB1DE9D38D00846163 /* IEViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = IEViewController.m; sourceTree = "<group>"; };
+		514F2EEC1DE9D38D00846163 /* images.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = images.plist; sourceTree = "<group>"; };
+		514F2EED1DE9D38D00846163 /* jk_ie.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = jk_ie.xib; sourceTree = "<group>"; };
+		514F2EEF1DE9D38D00846163 /* img.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = img.bundle; sourceTree = "<group>"; };
+		514F2EF01DE9D38D00846163 /* XiuViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XiuViewController.h; sourceTree = "<group>"; };
+		514F2EF11DE9D38D00846163 /* XiuViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XiuViewController.m; sourceTree = "<group>"; };
+		514F2EF31DE9D38D00846163 /* Zhen.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = Zhen.xib; sourceTree = "<group>"; };
+		514F2EF41DE9D38D00846163 /* zhen_img.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = zhen_img.bundle; sourceTree = "<group>"; };
+		514F2EF51DE9D38D00846163 /* ZhenViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZhenViewController.h; sourceTree = "<group>"; };
+		514F2EF61DE9D38D00846163 /* ZhenViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZhenViewController.m; sourceTree = "<group>"; };
+		514F2EF81DE9D38D00846163 /* app_img.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = app_img.bundle; sourceTree = "<group>"; };
+		514F2EF91DE9D38D00846163 /* apps.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = apps.plist; sourceTree = "<group>"; };
+		514F2EFB1DE9D38D00846163 /* APPViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = APPViewController.h; sourceTree = "<group>"; };
+		514F2EFC1DE9D38D00846163 /* APPViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = APPViewController.m; sourceTree = "<group>"; };
+		514F2EFE1DE9D38D00846163 /* LSApp.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LSApp.h; sourceTree = "<group>"; };
+		514F2EFF1DE9D38D00846163 /* LSApp.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LSApp.m; sourceTree = "<group>"; };
+		514F2F011DE9D38D00846163 /* LSAppView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LSAppView.h; sourceTree = "<group>"; };
+		514F2F021DE9D38D00846163 /* LSAppView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LSAppView.m; sourceTree = "<group>"; };
+		514F2F031DE9D38D00846163 /* LSAppView.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = LSAppView.xib; sourceTree = "<group>"; };
+		514F2F051DE9D38D00846163 /* WBMatrix.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WBMatrix.h; sourceTree = "<group>"; };
+		514F2F061DE9D38D00846163 /* WBPoint.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WBPoint.h; sourceTree = "<group>"; };
+		514F2F071DE9D38D00846163 /* WBView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WBView.h; sourceTree = "<group>"; };
+		514F2F081DE9D38D00846163 /* WBView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WBView.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +105,13 @@
 		514F2ECA1DE9D35C00846163 /* LSAnimation */ = {
 			isa = PBXGroup;
 			children = (
+				514F2EE21DE9D38D00846163 /* 块动画 */,
+				514F2EE51DE9D38D00846163 /* 头尾式动画 */,
+				514F2EE81DE9D38D00846163 /* 图片浏览器 */,
+				514F2EEE1DE9D38D00846163 /* 咻一咻 */,
+				514F2EF21DE9D38D00846163 /* 序列帧动画 */,
+				514F2EF71DE9D38D00846163 /* App应用管理(九宫格_MVC) */,
+				514F2F041DE9D38D00846163 /* WBView */,
 				514F2ECE1DE9D35C00846163 /* AppDelegate.h */,
 				514F2ECF1DE9D35C00846163 /* AppDelegate.m */,
 				514F2ED11DE9D35C00846163 /* ViewController.h */,
@@ -77,6 +131,108 @@
 				514F2ECC1DE9D35C00846163 /* main.m */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		514F2EE21DE9D38D00846163 /* 块动画 */ = {
+			isa = PBXGroup;
+			children = (
+				514F2EE31DE9D38D00846163 /* KuaiviewController.h */,
+				514F2EE41DE9D38D00846163 /* KuaiviewController.m */,
+			);
+			path = "块动画";
+			sourceTree = "<group>";
+		};
+		514F2EE51DE9D38D00846163 /* 头尾式动画 */ = {
+			isa = PBXGroup;
+			children = (
+				514F2EE61DE9D38D00846163 /* CartoonViewController.h */,
+				514F2EE71DE9D38D00846163 /* CartoonViewController.m */,
+			);
+			path = "头尾式动画";
+			sourceTree = "<group>";
+		};
+		514F2EE81DE9D38D00846163 /* 图片浏览器 */ = {
+			isa = PBXGroup;
+			children = (
+				514F2EE91DE9D38D00846163 /* ie_img.bundle */,
+				514F2EEA1DE9D38D00846163 /* IEViewController.h */,
+				514F2EEB1DE9D38D00846163 /* IEViewController.m */,
+				514F2EEC1DE9D38D00846163 /* images.plist */,
+				514F2EED1DE9D38D00846163 /* jk_ie.xib */,
+			);
+			path = "图片浏览器";
+			sourceTree = "<group>";
+		};
+		514F2EEE1DE9D38D00846163 /* 咻一咻 */ = {
+			isa = PBXGroup;
+			children = (
+				514F2EEF1DE9D38D00846163 /* img.bundle */,
+				514F2EF01DE9D38D00846163 /* XiuViewController.h */,
+				514F2EF11DE9D38D00846163 /* XiuViewController.m */,
+			);
+			path = "咻一咻";
+			sourceTree = "<group>";
+		};
+		514F2EF21DE9D38D00846163 /* 序列帧动画 */ = {
+			isa = PBXGroup;
+			children = (
+				514F2EF31DE9D38D00846163 /* Zhen.xib */,
+				514F2EF41DE9D38D00846163 /* zhen_img.bundle */,
+				514F2EF51DE9D38D00846163 /* ZhenViewController.h */,
+				514F2EF61DE9D38D00846163 /* ZhenViewController.m */,
+			);
+			path = "序列帧动画";
+			sourceTree = "<group>";
+		};
+		514F2EF71DE9D38D00846163 /* App应用管理(九宫格_MVC) */ = {
+			isa = PBXGroup;
+			children = (
+				514F2EF91DE9D38D00846163 /* apps.plist */,
+				514F2EF81DE9D38D00846163 /* app_img.bundle */,
+				514F2EFA1DE9D38D00846163 /* Controller */,
+				514F2EFD1DE9D38D00846163 /* Model */,
+				514F2F001DE9D38D00846163 /* View */,
+			);
+			path = "App应用管理(九宫格_MVC)";
+			sourceTree = "<group>";
+		};
+		514F2EFA1DE9D38D00846163 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				514F2EFB1DE9D38D00846163 /* APPViewController.h */,
+				514F2EFC1DE9D38D00846163 /* APPViewController.m */,
+			);
+			path = Controller;
+			sourceTree = "<group>";
+		};
+		514F2EFD1DE9D38D00846163 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				514F2EFE1DE9D38D00846163 /* LSApp.h */,
+				514F2EFF1DE9D38D00846163 /* LSApp.m */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		514F2F001DE9D38D00846163 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				514F2F011DE9D38D00846163 /* LSAppView.h */,
+				514F2F021DE9D38D00846163 /* LSAppView.m */,
+				514F2F031DE9D38D00846163 /* LSAppView.xib */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		514F2F041DE9D38D00846163 /* WBView */ = {
+			isa = PBXGroup;
+			children = (
+				514F2F051DE9D38D00846163 /* WBMatrix.h */,
+				514F2F061DE9D38D00846163 /* WBPoint.h */,
+				514F2F071DE9D38D00846163 /* WBView.h */,
+				514F2F081DE9D38D00846163 /* WBView.m */,
+			);
+			path = WBView;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -137,9 +293,18 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				514F2F0E1DE9D38D00846163 /* jk_ie.xib in Resources */,
 				514F2EDB1DE9D35C00846163 /* LaunchScreen.storyboard in Resources */,
 				514F2ED81DE9D35C00846163 /* Assets.xcassets in Resources */,
+				514F2F191DE9D38D00846163 /* LSAppView.xib in Resources */,
 				514F2ED61DE9D35C00846163 /* Main.storyboard in Resources */,
+				514F2F151DE9D38D00846163 /* apps.plist in Resources */,
+				514F2F121DE9D38D00846163 /* zhen_img.bundle in Resources */,
+				514F2F0B1DE9D38D00846163 /* ie_img.bundle in Resources */,
+				514F2F0D1DE9D38D00846163 /* images.plist in Resources */,
+				514F2F111DE9D38D00846163 /* Zhen.xib in Resources */,
+				514F2F0F1DE9D38D00846163 /* img.bundle in Resources */,
+				514F2F141DE9D38D00846163 /* app_img.bundle in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -150,9 +315,18 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				514F2F091DE9D38D00846163 /* KuaiviewController.m in Sources */,
 				514F2ED31DE9D35C00846163 /* ViewController.m in Sources */,
+				514F2F0C1DE9D38D00846163 /* IEViewController.m in Sources */,
+				514F2F161DE9D38D00846163 /* APPViewController.m in Sources */,
+				514F2F171DE9D38D00846163 /* LSApp.m in Sources */,
+				514F2F131DE9D38D00846163 /* ZhenViewController.m in Sources */,
 				514F2ED01DE9D35C00846163 /* AppDelegate.m in Sources */,
 				514F2ECD1DE9D35C00846163 /* main.m in Sources */,
+				514F2F101DE9D38D00846163 /* XiuViewController.m in Sources */,
+				514F2F181DE9D38D00846163 /* LSAppView.m in Sources */,
+				514F2F0A1DE9D38D00846163 /* CartoonViewController.m in Sources */,
+				514F2F1A1DE9D38D00846163 /* WBView.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
