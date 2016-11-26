@@ -31,6 +31,7 @@
 		514F2F181DE9D38D00846163 /* LSAppView.m in Sources */ = {isa = PBXBuildFile; fileRef = 514F2F021DE9D38D00846163 /* LSAppView.m */; };
 		514F2F191DE9D38D00846163 /* LSAppView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 514F2F031DE9D38D00846163 /* LSAppView.xib */; };
 		514F2F1A1DE9D38D00846163 /* WBView.m in Sources */ = {isa = PBXBuildFile; fileRef = 514F2F081DE9D38D00846163 /* WBView.m */; };
+		514F2F1D1DE9E04C00846163 /* LSRotationViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 514F2F1C1DE9E04C00846163 /* LSRotationViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -73,6 +74,8 @@
 		514F2F061DE9D38D00846163 /* WBPoint.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WBPoint.h; sourceTree = "<group>"; };
 		514F2F071DE9D38D00846163 /* WBView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WBView.h; sourceTree = "<group>"; };
 		514F2F081DE9D38D00846163 /* WBView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WBView.m; sourceTree = "<group>"; };
+		514F2F1B1DE9E04C00846163 /* LSRotationViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LSRotationViewController.h; sourceTree = "<group>"; };
+		514F2F1C1DE9E04C00846163 /* LSRotationViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LSRotationViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -231,6 +234,8 @@
 				514F2F061DE9D38D00846163 /* WBPoint.h */,
 				514F2F071DE9D38D00846163 /* WBView.h */,
 				514F2F081DE9D38D00846163 /* WBView.m */,
+				514F2F1B1DE9E04C00846163 /* LSRotationViewController.h */,
+				514F2F1C1DE9E04C00846163 /* LSRotationViewController.m */,
 			);
 			path = WBView;
 			sourceTree = "<group>";
@@ -327,6 +332,7 @@
 				514F2F181DE9D38D00846163 /* LSAppView.m in Sources */,
 				514F2F0A1DE9D38D00846163 /* CartoonViewController.m in Sources */,
 				514F2F1A1DE9D38D00846163 /* WBView.m in Sources */,
+				514F2F1D1DE9E04C00846163 /* LSRotationViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -483,6 +489,7 @@
 				514F2EE11DE9D35C00846163 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

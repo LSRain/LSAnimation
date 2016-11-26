@@ -78,7 +78,7 @@
         
         
         // 获取每一个appView对应的数据并且传给appView中的属性,就会调用它的set方法去设置数据了
-        appView.app =  _appsData[i];
+        appView.app = _appsData[i];
         
         // 把装配好的appView添加到控制器的view上
         [self.view addSubview:appView];

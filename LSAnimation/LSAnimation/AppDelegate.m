@@ -20,7 +20,8 @@
     
     _window = [[UIWindow alloc]initWithFrame:[UIScreen mainScreen].bounds];
     
-    Class cls = NSClassFromString(@"KuaiviewController");
+    /* 将需要设置的控制器类名进行替换即可调用不同的动画 */
+    Class cls = NSClassFromString(@"IEViewController");
     
     UIViewController *vc = [[cls alloc] init];
     
